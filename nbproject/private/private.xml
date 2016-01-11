@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OpenServer/domains/chat/app/Http/routes.php</file>
+            <file>file:/D:/OpenServer/domains/chat/app/Http/Controllers/MessagesController.php</file>
+            <file>file:/D:/OpenServer/domains/chat/app/Message.php</file>
+            <file>file:/D:/OpenServer/domains/chat/app/User.php</file>
+            <file>file:/D:/OpenServer/domains/chat/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php</file>
+            <file>file:/D:/OpenServer/domains/chat/resources/views/history.blade.php</file>
+            <file>file:/D:/OpenServer/domains/chat/resources/views/list_dialog.blade.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,1 @@
+<h3>New password: {{ $password }}</h3>
